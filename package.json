@@ -4,8 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "gulp",
-    "build": "jekyll build && mv _site public"
+    "dev": "gulp"
   },
   "author": "Purnama Anaking",
   "license": "ISC",
